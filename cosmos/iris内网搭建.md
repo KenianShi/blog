@@ -3,7 +3,7 @@
 在做iris的测试的时候，可能出现没有测试网，或者测试网没有水龙头，没有币等。这时候可可以自己搭建一条测试链出来，其实很简单
 
 ### 安装iris
-这一步操作文档就不提供了，有什么问题直接去官方文档
+这一步操作文档就不提供了，有什么问题直接去[官方文档](https://github.com/irisnet/irishub/blob/master/docs/get-started/Install-the-Software.md)
 
 ### 初始化节点
 - 创建账户，记好助记词，这是恢复账号的关键
